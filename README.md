@@ -182,5 +182,6 @@ streamlit run app.py
 <h2><a class="anchor" id="author--contact"></a>Author & Contact</h2>
 
 
-
+AUTHOR 
+BHANU (M.Tech)
 
